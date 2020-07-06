@@ -23,7 +23,7 @@
 
   <body>
     <header>
-      <nav class="navbar navbar-expand-md navbar-dark bg-primary">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-jumpers">
         <a href="#" class="navbar-brand">
           <img
             src="./img/logo.png"
@@ -49,7 +49,52 @@
         </button>
 
         <div class="collapse navbar-collapse" id="main-menu">
-          ldskfjaslkd
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a href="#" class="nav-link">Start</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                href="#"
+                class="nav-link dropdown-toggle"
+                data-toggle="dropdown"
+                role="button"
+                aria-expanded="false"
+                aria-haspopup="true"
+                id="submenu"
+                >Zawody</a
+              >
+              <div class="dropdown-menu" aria-labelledby="submenu">
+                <a href="#" class="dropdown-item">Terminarz zawodów</a>
+                <a href="#" class="dropdown-item">Ranking Pucharu Świata</a>
+                <div class="dropdown-divider"></div>
+                <a href="#" class="dropdown-item">Sylwetki zawodników</a>
+                <a href="#" class="dropdown-item">Skocznie</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Historia</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Zdjęcia</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Wywiady</a>
+            </li>
+            <li class="nav-item">
+              <a href="#" class="nav-link">Kontakt</a>
+            </li>
+          </ul>
+
+          <form action="" class="form-inline">
+            <input
+              type="search"
+              class="form-control mr-1"
+              placeholder="Wyszukaj"
+              aria-label="Wyszukaj"
+            />
+            <button class="btn btn-light" type="submit">Znajdź</button>
+          </form>
         </div>
       </nav>
     </header>
