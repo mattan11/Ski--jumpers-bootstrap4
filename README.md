@@ -5,7 +5,7 @@ This website is about most popular ski jumpers in last 20 years. Currently there
 ## Install
 To install this project at your computer clone this repository.
 
-$ git clone https://github.com/mattan11/Image-slider
+$ git clone https://github.com/mattan11/Ski--jumpers-bootstrap4
 
 
 ## Github Pages
