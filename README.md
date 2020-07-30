@@ -1,5 +1,5 @@
 # Ski jumpers
-This website is about most popular ski jumpers in last 20 years. Currently there are two biographies of Adam Małysz and Kamil Stoch included. Click a picture on main site and you will be redirected to selected biograpty
+This website is about most popular ski jumpers in last 20 years. Currently there are two biographies of Adam Małysz and Kamil Stoch included. Click a picture on main site and you will be redirected to selected biography
 
 
 ## Install
